@@ -1,0 +1,24 @@
+{
+  "persona": "Undergraduate Computer Science Student",
+  "job_to_be_done": "Find the most relevant sections that explain the core algorithms and architectures used in Transformer models and their applications in NLP.",
+  "matches": [
+    {
+      "file": "Sample_pdf_1.pdf",
+      "section_title": "Understanding Transformer Architectures",
+      "page_number": 4,
+      "relevant_text": "The Transformer model is built on self-attention mechanisms, allowing parallel processing and deep contextual understanding..."
+    },
+    {
+      "file": "Sample_pdf_2.pdf",
+      "section_title": "Applications of Transformers in NLP",
+      "page_number": 7,
+      "relevant_text": "Transformers have revolutionized NLP tasks like translation, summarization, and question answering by leveraging large-scale pretraining."
+    },
+    {
+      "file": "Sample_pdf_3.pdf",
+      "section_title": "Transformer Variants and Optimization",
+      "page_number": 5,
+      "relevant_text": "Recent variants like BERT, RoBERTa, and GPT introduce task-specific optimization to further enhance performance."
+    }
+  ]
+}
